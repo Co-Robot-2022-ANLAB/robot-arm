@@ -108,6 +108,8 @@ if __name__=='__main__':
     pub.publish('open')
     rospy.sleep(2)
     
+    //
+    
     #move down
     # tm.move_down()
 
